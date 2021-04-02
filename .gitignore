@@ -1,0 +1,11 @@
+__pycache__
+*.py[cod]
+.python-version
+
+.idea
+/venv
+
+tmp
+*.bak
+*.log
+*.swp
