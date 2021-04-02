@@ -9,3 +9,4 @@ tmp
 *.bak
 *.log
 *.swp
+/venv/
