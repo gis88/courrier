@@ -2,7 +2,7 @@ import requests
 
 
 # Weather module
-api_key = "5579671874d601427fff2c746b4381ac"
+api_key = "TOKEN"
 city = "Kiev"
 url = "http://api.openweathermap.org/data/2.5/weather?q="+city+"&appid="+api_key+"&units=metric"
 
